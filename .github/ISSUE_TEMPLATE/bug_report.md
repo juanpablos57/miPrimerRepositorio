@@ -2,8 +2,9 @@ name: Bug report
 about: Crea un reporte de error para ayudarnos a mejorar
 title: "[BUG] Descripción breve"
 labels: bug
-assignees: ''
----
+assignees: '' 
+
+--
 
 **Describe el error**
 Una descripción clara y concisa del error.
