@@ -17,5 +17,3 @@ Una vez mas una actualizacion desde GitHub
 
 
 Cambios desde mi rama local llamada developerJuan
-
-Otro cambio desde mi rama local llamda developerJuan 
